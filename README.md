@@ -1,1 +1,1 @@
-# AmigoPet
+# Amigo Pet
